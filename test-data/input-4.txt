@@ -1,0 +1,4 @@
+# Test ALL mode with both torpedo stores available
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
